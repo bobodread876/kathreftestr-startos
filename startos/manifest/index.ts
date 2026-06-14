@@ -13,7 +13,7 @@ export const manifest = setupManifest({
   volumes: ['main'],
   images: {
     kathreftestr: {
-      source: { dockerTag: 'ghcr.io/bobodread876/kathreftestr:0.1.0' },
+      source: { dockerTag: 'ghcr.io/bobodread876/kathreftestr:0.1.1' },
       arch: ['x86_64', 'aarch64'],
     },
   },
