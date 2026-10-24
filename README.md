@@ -1,7 +1,6 @@
 # kathreftestr-startos
 
-StartOS (.s9pk) package for [Kathreftestr](https://github.com/bobodread876/kathreftestr) —
-mirror a livestream to Nostr (NIP-53), self-hosted. Wraps
+StartOS (.s9pk) package for [Kathreftestr](https://github.com/bobodread876/kathreftestr): mirrors a livestream to Nostr (NIP-53), self-hosted. Wraps
 `ghcr.io/bobodread876/kathreftestr`.
 
 ## Build
